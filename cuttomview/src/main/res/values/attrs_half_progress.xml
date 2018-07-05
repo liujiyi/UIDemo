@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressView">
+        <attr name="half_progress_direction" format="integer"/>
+        <attr name="half_progress_Round" format="dimension"/>
+        <attr name="half_progress_no_used_bg" format="color"/>
+        <attr name="half_progress_used_bg" format="color"/>
+        <attr name="half_progress_desc_text" format="string"/>
+    </declare-styleable>
+</resources>
